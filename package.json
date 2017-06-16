@@ -28,5 +28,14 @@
     "passport": "*",
     "passport-http": "*",
     "passport-local": "*"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelobscura/LOGIN.MEAN.git"
+  },
+  "bugs": {
+    "url": "https://github.com/axelobscura/LOGIN.MEAN/issues"
+  },
+  "homepage": "https://github.com/axelobscura/LOGIN.MEAN#readme"
 }
